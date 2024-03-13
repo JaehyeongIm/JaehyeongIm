@@ -1,11 +1,7 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/JaehyeongIm">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaehyeongIm" />
-  </a>
-</p>
+
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
