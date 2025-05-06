@@ -7,7 +7,7 @@
 - **찾아줘 홈즈** 라는 부동산 추천 서비스의 백엔드를 맡아 성능 개선 경험을 하였습니다.
 
 ### 🛠️ 현재 관심사
-- 쿠스토랑에 대한 **테스트 코드**를 작성하고 있습니다.
+- 쿠스토랑에 대한 클린 아키텍처 리팩토링 및 테스트 코드 작성을 진행하고 있습니다.
 
 ### ⚡ Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
