@@ -8,7 +8,7 @@
 
 ### 🛠️ 현재 관심사
 - 부동산 추천 서비스의 성능 개선을 하고 있습니다.
-- 쿠스토랑에 대해 헥사고날 아키텍쳐 리팩토링 및 테스트 코드 작성을 진행하고 있습니다.
+- 건대 맛집 서비스의 헥사고날 아키텍쳐 리팩토링 및 테스트 코드 작성을 진행하고 있습니다.
 
 ### ⚡ Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
