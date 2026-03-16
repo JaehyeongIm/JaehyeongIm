@@ -1,10 +1,10 @@
 ## 임재형
 
 
-### 💻 프로젝트
-- **쿠스토랑**이라는 건국대 맛집 추천 서비스를 기획 및 개발 하였습니다
-- OS 프로젝트 중 스케줄러와 파일시스템을 구현 및 테스트하였습니다. 
-- **찾아줘홈즈** 라는 부동산 추천 프로젝트를 하여 성능 개선 경험을 하였습니다
+### 💻 경험
+- FUSE기반 UFFS 파일시스템 개발에서 파일 쓰기 오류를 해결하였습니다.
+- ghOSt 기반 O(1) 스케줄러 개발에서 베어메탈 리눅스 도입으로 선점 현상을 해결하였습니다.
+
 ### ⚡ Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
