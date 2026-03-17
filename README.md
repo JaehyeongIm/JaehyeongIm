@@ -2,8 +2,8 @@
 
 
 ### 💻 경험
-- FUSE기반 UFFS 파일시스템 개발에서 디스크 분석도구 valgrind를 사용하여 파일 쓰기 오류를 해결하였습니다.
 - ghOSt 기반 O(1) 스케줄러 개발에서 boosted_priority 플래그 설정을 통해 테스트가 hang되는 버그를 해결하였습니다.
+- FUSE기반 UFFS 파일시스템 개발에서 디스크 분석도구 valgrind를 사용하여 파일 쓰기 오류를 해결하였습니다.
 
 ### ⚡ Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
