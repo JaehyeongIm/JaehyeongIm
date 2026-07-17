@@ -20,8 +20,8 @@
 
 ### Communication & Networking
 
-![SDLC](https://img.shields.io/badge/SDLC-3949AB?style=flat-square)
 ![Ethernet](https://img.shields.io/badge/Ethernet-1565C0?style=flat-square)
+![SDLC](https://img.shields.io/badge/SDLC-3949AB?style=flat-square)
 ![UART](https://img.shields.io/badge/UART-FB8C00?style=flat-square)
 ![CAN](https://img.shields.io/badge/CAN-FF6F00?style=flat-square)
 
