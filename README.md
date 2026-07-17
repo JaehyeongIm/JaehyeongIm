@@ -2,8 +2,7 @@
 
 # 임재형
 
-### Embedded Firmware Engineer
-
+## 방산 임베디드 sw
 
 </div>
 
