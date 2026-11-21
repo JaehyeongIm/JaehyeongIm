@@ -5,16 +5,28 @@
 </div>
 
 ---
+
 ## Tech Stack
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
+
+### Desktop UI
+
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### Digital Design
+
+![FPGA](https://img.shields.io/badge/FPGA-00695C?style=flat-square)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-455A64?style=flat-square)
 
 ### Embedded & Operating Systems
-![VxWorks](https://img.shields.io/badge/VxWorks-005F9E?style=flat-square\&logo=windriver\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square\&logo=arm\&logoColor=white)
+
+![VxWorks](https://img.shields.io/badge/VxWorks-005F9E?style=flat-square&logo=windriver&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white)
 
 ### Communication & Networking
 
@@ -25,11 +37,10 @@
 
 ### IDE & Modeling Tools
 
-![Wind River Workbench](https://img.shields.io/badge/Wind%20River%20Workbench-0072CE?style=flat-square\&logo=windriver\&logoColor=white)
-![IBM Rhapsody](https://img.shields.io/badge/IBM%20Rhapsody-052FAD?style=flat-square\&logo=ibm\&logoColor=white)
+![Wind River Workbench](https://img.shields.io/badge/Wind%20River%20Workbench-0072CE?style=flat-square&logo=windriver&logoColor=white)
+![IBM Rhapsody](https://img.shields.io/badge/IBM%20Rhapsody-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
 ### Debug & Measurement
 
-![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat-square\&logo=gnu\&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logo=gnu&logoColor=white)
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-546E7A?style=flat-square)
-
